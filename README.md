@@ -1,7 +1,7 @@
 # Test Plan
 ### Test Plan Identifier
 According to the IEEE 829 Standard, Test Plan Identifier uniquely identifies the test plan (Reqtest, 2016).
-For this project, the test plan is for the staff management application on Windows. => https://github.com/hieudku/SD6503BenchmarkAppAssignment1.git
+For this project, the test plan is for the staff management application on Windows. => https://github.com/hieudku/BenchmarkApp.git
 <br />
 ### Introduction
 This document outlines the test plan for the staff management application, which is developed to manage staff data through various functionalities such as adding, editing, deleting, and sorting staff information. The test plan follows the IEEE 829 standard, ensuring a comprehensive and structured approach to testing.
